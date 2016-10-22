@@ -39,7 +39,7 @@ check if the container is up and running using 'docker ps '
 
 # How to access jenkins in web browser
 
-http://<Obtain ip with docker-machine ip example-jenkins>:8080/
+http://<ip>:8080/
 
 username : admin
 password : <Password in /var/jenkins_home/secrets/initialAdminPassword can be obtain once you bash in the machine >
